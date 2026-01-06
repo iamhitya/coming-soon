@@ -5,6 +5,3 @@ A Simple yet Modern Coming Soon HTML Template (Single File)
 
 ## Customize SVG Icon
 https://www.flaticon.com/free-icon/fast-time_2972562?term=clock&page=1&position=27#
-
-## Follow me at
-<a href="https://github.com/iamhitya/"><img alt="Github @iamhitya" src="https://img.shields.io/static/v1?logo=github&message=Github&color=black&style=flat-square&label=" /></a> <a href="https://twitter.com/iamhitya/"><img alt="Twitter @iamhitya" src="https://img.shields.io/static/v1?logo=twitter&message=Twitter&color=black&style=flat-square&label=" /></a> <a href="https://www.linkedin.com/in/iamhitya/"><img alt="LinkedIn @iamhitya" src="https://img.shields.io/static/v1?logo=linkedin&message=LinkedIn&color=black&style=flat-square&label=&link=https://twitter.com/iamhitya" /></a>
